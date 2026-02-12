@@ -93,8 +93,8 @@ const userTimeSettings = {};
 // Channel Configuration
 const CHANNEL_CONFIG_FILE = 'channel_config.json';
 let requiredChannels = [
-  { id: "@DevMickChannel", name: "📢 Dev Mick Official Channel" },
-  { id: "@BettingLabGroup", name: "💬 Betting Lab Discussion" }
+  { id: "https://t.me/+NLb-9NFUSiY1YjVl", name: "📢 KELVIN Official Channel" },
+  { id: "https://t.me/+eI4gXKieVBYzNWZl", name: "💬 Betting Lab Discussion" }
 ];
 
 // 🔥 PANDA PATTERNS URL
@@ -249,8 +249,8 @@ ${BORDERS.DIA_MID}
 ║                                                   ║
 ${BORDERS.DIA_MID}
 ║  📞 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗜𝗡𝗙𝗢 📞                             ║
-║  👑 ${FORMAT.b('𝐀𝐝𝐦𝐢𝐧')}: @GOD_OuWan                            ║
-║  💬 ${FORMAT.b('𝐆𝐫𝐨𝐮𝐩')}: @BettingLabGroup                    ║
+║  👑 ${FORMAT.b('𝐀𝐝𝐦𝐢𝐧')}: @zinko158                            ║
+║  💬 ${FORMAT.b('𝐆𝐫𝐨𝐮𝐩')}: https://t.me/+KT3SAWDdC-MxNjJl                 ║
 ║                                                   ║
 ${BORDERS.DIA_BOT}
 

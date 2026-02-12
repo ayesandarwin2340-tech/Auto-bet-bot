@@ -3,7 +3,7 @@
 // 🎨 ULTIMATE UI ULTRA EDITION - FULLY UPGRADED
 // 🧬 DEVELOPED BY DEV MICK
 // ============================================
-// Telegram: @GOD_OuWan | Group: @BettingLabGroup
+// Telegram: @GOD_OuWan | Group: 
 // ============================================
 
 const TelegramBot = require('node-telegram-bot-api');
@@ -93,8 +93,8 @@ const userTimeSettings = {};
 // Channel Configuration
 const CHANNEL_CONFIG_FILE = 'channel_config.json';
 let requiredChannels = [
-  { id: "https://t.me/+NLb-9NFUSiY1YjVl", name: "📢 KELVIN Official Channel" },
-  { id: "https://t.me/+eI4gXKieVBYzNWZl", name: "💬 Betting Lab Discussion" }
+  { id: "-1002815757723", name: "📢 KELVIN Official Channel" },
+  { id: "-1002756417115", name: "💬 Betting Lab Discussion" }
 ];
 
 // 🔥 PANDA PATTERNS URL
@@ -187,7 +187,7 @@ ${BORDERS.LUX_MID}
 ║  ${EMOJI.PROFIT} 𝐏𝐑𝐎𝐅𝐈𝐓    +${FORMAT.money(profit).padEnd(29)}║
 ║  ⚡ 𝐖𝐈𝐍 𝐑𝐀𝐓𝐄   ${FORMAT.percent(winRate).padEnd(30)}║
 ${BORDERS.LUX_MID}
-║     🧬🧬  𝐃𝐄𝐕·𝐌𝐈𝐂𝐊 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐀𝐈  🧬🧬      ║
+║     🧬🧬  Mr.KELVIN 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐀𝐈  🧬🧬      ║
 ║     🤖  𝐀𝐮𝐭𝐨 𝐁𝐞𝐭 𝐒𝐲𝐬𝐭𝐞𝐦 𝐯𝟒.𝟎  𝐔𝐥𝐭𝐫𝐚    🤖   ║
 ${BORDERS.LUX_BOT}
 
